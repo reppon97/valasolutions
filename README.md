@@ -15,3 +15,10 @@ simply:
 ### Postman collections to help testing the app
 
 [Postman Collection Link](https://www.getpostman.com/collections/f7bdb88336ba6df5cc97)
+
+
+
+- Tech stack: 
+    * Web App - Django
+    * Database - PostgreSQL
+    * Containerized via docker-compose
